@@ -2,6 +2,7 @@
  * RPi2c - test i2c communication between an Arduino and a Raspberry Pi.
  *
  * Copyright (c) 2013 Carlos Rodrigues <cefrodrigues@gmail.com>
+ * Copyright (c) 2016 Andres Kepler <kepsic@gmail.com>
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
